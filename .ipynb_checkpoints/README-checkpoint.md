@@ -6,5 +6,3 @@ date created: Feb 13, 2021
 Author: Anton Kim
 
 Age: 40
-
-jkhhkjhkjhjkh
